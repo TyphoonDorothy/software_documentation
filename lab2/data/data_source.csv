@@ -1,0 +1,1001 @@
+type,id,title,pricePerNight,ownerId,name,email
+user,0,,,,User_0,test0@mail.com
+user,2,,,,User_2,test2@mail.com
+user,4,,,,User_4,test4@mail.com
+user,6,,,,User_6,test6@mail.com
+user,8,,,,User_8,test8@mail.com
+user,10,,,,User_10,test10@mail.com
+user,12,,,,User_12,test12@mail.com
+user,14,,,,User_14,test14@mail.com
+user,16,,,,User_16,test16@mail.com
+user,18,,,,User_18,test18@mail.com
+user,20,,,,User_20,test20@mail.com
+user,22,,,,User_22,test22@mail.com
+user,24,,,,User_24,test24@mail.com
+user,26,,,,User_26,test26@mail.com
+user,28,,,,User_28,test28@mail.com
+user,30,,,,User_30,test30@mail.com
+user,32,,,,User_32,test32@mail.com
+user,34,,,,User_34,test34@mail.com
+user,36,,,,User_36,test36@mail.com
+user,38,,,,User_38,test38@mail.com
+user,40,,,,User_40,test40@mail.com
+user,42,,,,User_42,test42@mail.com
+user,44,,,,User_44,test44@mail.com
+user,46,,,,User_46,test46@mail.com
+user,48,,,,User_48,test48@mail.com
+user,50,,,,User_50,test50@mail.com
+user,52,,,,User_52,test52@mail.com
+user,54,,,,User_54,test54@mail.com
+user,56,,,,User_56,test56@mail.com
+user,58,,,,User_58,test58@mail.com
+user,60,,,,User_60,test60@mail.com
+user,62,,,,User_62,test62@mail.com
+user,64,,,,User_64,test64@mail.com
+user,66,,,,User_66,test66@mail.com
+user,68,,,,User_68,test68@mail.com
+user,70,,,,User_70,test70@mail.com
+user,72,,,,User_72,test72@mail.com
+user,74,,,,User_74,test74@mail.com
+user,76,,,,User_76,test76@mail.com
+user,78,,,,User_78,test78@mail.com
+user,80,,,,User_80,test80@mail.com
+user,82,,,,User_82,test82@mail.com
+user,84,,,,User_84,test84@mail.com
+user,86,,,,User_86,test86@mail.com
+user,88,,,,User_88,test88@mail.com
+user,90,,,,User_90,test90@mail.com
+user,92,,,,User_92,test92@mail.com
+user,94,,,,User_94,test94@mail.com
+user,96,,,,User_96,test96@mail.com
+user,98,,,,User_98,test98@mail.com
+user,100,,,,User_100,test100@mail.com
+user,102,,,,User_102,test102@mail.com
+user,104,,,,User_104,test104@mail.com
+user,106,,,,User_106,test106@mail.com
+user,108,,,,User_108,test108@mail.com
+user,110,,,,User_110,test110@mail.com
+user,112,,,,User_112,test112@mail.com
+user,114,,,,User_114,test114@mail.com
+user,116,,,,User_116,test116@mail.com
+user,118,,,,User_118,test118@mail.com
+user,120,,,,User_120,test120@mail.com
+user,122,,,,User_122,test122@mail.com
+user,124,,,,User_124,test124@mail.com
+user,126,,,,User_126,test126@mail.com
+user,128,,,,User_128,test128@mail.com
+user,130,,,,User_130,test130@mail.com
+user,132,,,,User_132,test132@mail.com
+user,134,,,,User_134,test134@mail.com
+user,136,,,,User_136,test136@mail.com
+user,138,,,,User_138,test138@mail.com
+user,140,,,,User_140,test140@mail.com
+user,142,,,,User_142,test142@mail.com
+user,144,,,,User_144,test144@mail.com
+user,146,,,,User_146,test146@mail.com
+user,148,,,,User_148,test148@mail.com
+user,150,,,,User_150,test150@mail.com
+user,152,,,,User_152,test152@mail.com
+user,154,,,,User_154,test154@mail.com
+user,156,,,,User_156,test156@mail.com
+user,158,,,,User_158,test158@mail.com
+user,160,,,,User_160,test160@mail.com
+user,162,,,,User_162,test162@mail.com
+user,164,,,,User_164,test164@mail.com
+user,166,,,,User_166,test166@mail.com
+user,168,,,,User_168,test168@mail.com
+user,170,,,,User_170,test170@mail.com
+user,172,,,,User_172,test172@mail.com
+user,174,,,,User_174,test174@mail.com
+user,176,,,,User_176,test176@mail.com
+user,178,,,,User_178,test178@mail.com
+user,180,,,,User_180,test180@mail.com
+user,182,,,,User_182,test182@mail.com
+user,184,,,,User_184,test184@mail.com
+user,186,,,,User_186,test186@mail.com
+user,188,,,,User_188,test188@mail.com
+user,190,,,,User_190,test190@mail.com
+user,192,,,,User_192,test192@mail.com
+user,194,,,,User_194,test194@mail.com
+user,196,,,,User_196,test196@mail.com
+user,198,,,,User_198,test198@mail.com
+user,200,,,,User_200,test200@mail.com
+user,202,,,,User_202,test202@mail.com
+user,204,,,,User_204,test204@mail.com
+user,206,,,,User_206,test206@mail.com
+user,208,,,,User_208,test208@mail.com
+user,210,,,,User_210,test210@mail.com
+user,212,,,,User_212,test212@mail.com
+user,214,,,,User_214,test214@mail.com
+user,216,,,,User_216,test216@mail.com
+user,218,,,,User_218,test218@mail.com
+user,220,,,,User_220,test220@mail.com
+user,222,,,,User_222,test222@mail.com
+user,224,,,,User_224,test224@mail.com
+user,226,,,,User_226,test226@mail.com
+user,228,,,,User_228,test228@mail.com
+user,230,,,,User_230,test230@mail.com
+user,232,,,,User_232,test232@mail.com
+user,234,,,,User_234,test234@mail.com
+user,236,,,,User_236,test236@mail.com
+user,238,,,,User_238,test238@mail.com
+user,240,,,,User_240,test240@mail.com
+user,242,,,,User_242,test242@mail.com
+user,244,,,,User_244,test244@mail.com
+user,246,,,,User_246,test246@mail.com
+user,248,,,,User_248,test248@mail.com
+user,250,,,,User_250,test250@mail.com
+user,252,,,,User_252,test252@mail.com
+user,254,,,,User_254,test254@mail.com
+user,256,,,,User_256,test256@mail.com
+user,258,,,,User_258,test258@mail.com
+user,260,,,,User_260,test260@mail.com
+user,262,,,,User_262,test262@mail.com
+user,264,,,,User_264,test264@mail.com
+user,266,,,,User_266,test266@mail.com
+user,268,,,,User_268,test268@mail.com
+user,270,,,,User_270,test270@mail.com
+user,272,,,,User_272,test272@mail.com
+user,274,,,,User_274,test274@mail.com
+user,276,,,,User_276,test276@mail.com
+user,278,,,,User_278,test278@mail.com
+user,280,,,,User_280,test280@mail.com
+user,282,,,,User_282,test282@mail.com
+user,284,,,,User_284,test284@mail.com
+user,286,,,,User_286,test286@mail.com
+user,288,,,,User_288,test288@mail.com
+user,290,,,,User_290,test290@mail.com
+user,292,,,,User_292,test292@mail.com
+user,294,,,,User_294,test294@mail.com
+user,296,,,,User_296,test296@mail.com
+user,298,,,,User_298,test298@mail.com
+user,300,,,,User_300,test300@mail.com
+user,302,,,,User_302,test302@mail.com
+user,304,,,,User_304,test304@mail.com
+user,306,,,,User_306,test306@mail.com
+user,308,,,,User_308,test308@mail.com
+user,310,,,,User_310,test310@mail.com
+user,312,,,,User_312,test312@mail.com
+user,314,,,,User_314,test314@mail.com
+user,316,,,,User_316,test316@mail.com
+user,318,,,,User_318,test318@mail.com
+user,320,,,,User_320,test320@mail.com
+user,322,,,,User_322,test322@mail.com
+user,324,,,,User_324,test324@mail.com
+user,326,,,,User_326,test326@mail.com
+user,328,,,,User_328,test328@mail.com
+user,330,,,,User_330,test330@mail.com
+user,332,,,,User_332,test332@mail.com
+user,334,,,,User_334,test334@mail.com
+user,336,,,,User_336,test336@mail.com
+user,338,,,,User_338,test338@mail.com
+user,340,,,,User_340,test340@mail.com
+user,342,,,,User_342,test342@mail.com
+user,344,,,,User_344,test344@mail.com
+user,346,,,,User_346,test346@mail.com
+user,348,,,,User_348,test348@mail.com
+user,350,,,,User_350,test350@mail.com
+user,352,,,,User_352,test352@mail.com
+user,354,,,,User_354,test354@mail.com
+user,356,,,,User_356,test356@mail.com
+user,358,,,,User_358,test358@mail.com
+user,360,,,,User_360,test360@mail.com
+user,362,,,,User_362,test362@mail.com
+user,364,,,,User_364,test364@mail.com
+user,366,,,,User_366,test366@mail.com
+user,368,,,,User_368,test368@mail.com
+user,370,,,,User_370,test370@mail.com
+user,372,,,,User_372,test372@mail.com
+user,374,,,,User_374,test374@mail.com
+user,376,,,,User_376,test376@mail.com
+user,378,,,,User_378,test378@mail.com
+user,380,,,,User_380,test380@mail.com
+user,382,,,,User_382,test382@mail.com
+user,384,,,,User_384,test384@mail.com
+user,386,,,,User_386,test386@mail.com
+user,388,,,,User_388,test388@mail.com
+user,390,,,,User_390,test390@mail.com
+user,392,,,,User_392,test392@mail.com
+user,394,,,,User_394,test394@mail.com
+user,396,,,,User_396,test396@mail.com
+user,398,,,,User_398,test398@mail.com
+user,400,,,,User_400,test400@mail.com
+user,402,,,,User_402,test402@mail.com
+user,404,,,,User_404,test404@mail.com
+user,406,,,,User_406,test406@mail.com
+user,408,,,,User_408,test408@mail.com
+user,410,,,,User_410,test410@mail.com
+user,412,,,,User_412,test412@mail.com
+user,414,,,,User_414,test414@mail.com
+user,416,,,,User_416,test416@mail.com
+user,418,,,,User_418,test418@mail.com
+user,420,,,,User_420,test420@mail.com
+user,422,,,,User_422,test422@mail.com
+user,424,,,,User_424,test424@mail.com
+user,426,,,,User_426,test426@mail.com
+user,428,,,,User_428,test428@mail.com
+user,430,,,,User_430,test430@mail.com
+user,432,,,,User_432,test432@mail.com
+user,434,,,,User_434,test434@mail.com
+user,436,,,,User_436,test436@mail.com
+user,438,,,,User_438,test438@mail.com
+user,440,,,,User_440,test440@mail.com
+user,442,,,,User_442,test442@mail.com
+user,444,,,,User_444,test444@mail.com
+user,446,,,,User_446,test446@mail.com
+user,448,,,,User_448,test448@mail.com
+user,450,,,,User_450,test450@mail.com
+user,452,,,,User_452,test452@mail.com
+user,454,,,,User_454,test454@mail.com
+user,456,,,,User_456,test456@mail.com
+user,458,,,,User_458,test458@mail.com
+user,460,,,,User_460,test460@mail.com
+user,462,,,,User_462,test462@mail.com
+user,464,,,,User_464,test464@mail.com
+user,466,,,,User_466,test466@mail.com
+user,468,,,,User_468,test468@mail.com
+user,470,,,,User_470,test470@mail.com
+user,472,,,,User_472,test472@mail.com
+user,474,,,,User_474,test474@mail.com
+user,476,,,,User_476,test476@mail.com
+user,478,,,,User_478,test478@mail.com
+user,480,,,,User_480,test480@mail.com
+user,482,,,,User_482,test482@mail.com
+user,484,,,,User_484,test484@mail.com
+user,486,,,,User_486,test486@mail.com
+user,488,,,,User_488,test488@mail.com
+user,490,,,,User_490,test490@mail.com
+user,492,,,,User_492,test492@mail.com
+user,494,,,,User_494,test494@mail.com
+user,496,,,,User_496,test496@mail.com
+user,498,,,,User_498,test498@mail.com
+user,500,,,,User_500,test500@mail.com
+user,502,,,,User_502,test502@mail.com
+user,504,,,,User_504,test504@mail.com
+user,506,,,,User_506,test506@mail.com
+user,508,,,,User_508,test508@mail.com
+user,510,,,,User_510,test510@mail.com
+user,512,,,,User_512,test512@mail.com
+user,514,,,,User_514,test514@mail.com
+user,516,,,,User_516,test516@mail.com
+user,518,,,,User_518,test518@mail.com
+user,520,,,,User_520,test520@mail.com
+user,522,,,,User_522,test522@mail.com
+user,524,,,,User_524,test524@mail.com
+user,526,,,,User_526,test526@mail.com
+user,528,,,,User_528,test528@mail.com
+user,530,,,,User_530,test530@mail.com
+user,532,,,,User_532,test532@mail.com
+user,534,,,,User_534,test534@mail.com
+user,536,,,,User_536,test536@mail.com
+user,538,,,,User_538,test538@mail.com
+user,540,,,,User_540,test540@mail.com
+user,542,,,,User_542,test542@mail.com
+user,544,,,,User_544,test544@mail.com
+user,546,,,,User_546,test546@mail.com
+user,548,,,,User_548,test548@mail.com
+user,550,,,,User_550,test550@mail.com
+user,552,,,,User_552,test552@mail.com
+user,554,,,,User_554,test554@mail.com
+user,556,,,,User_556,test556@mail.com
+user,558,,,,User_558,test558@mail.com
+user,560,,,,User_560,test560@mail.com
+user,562,,,,User_562,test562@mail.com
+user,564,,,,User_564,test564@mail.com
+user,566,,,,User_566,test566@mail.com
+user,568,,,,User_568,test568@mail.com
+user,570,,,,User_570,test570@mail.com
+user,572,,,,User_572,test572@mail.com
+user,574,,,,User_574,test574@mail.com
+user,576,,,,User_576,test576@mail.com
+user,578,,,,User_578,test578@mail.com
+user,580,,,,User_580,test580@mail.com
+user,582,,,,User_582,test582@mail.com
+user,584,,,,User_584,test584@mail.com
+user,586,,,,User_586,test586@mail.com
+user,588,,,,User_588,test588@mail.com
+user,590,,,,User_590,test590@mail.com
+user,592,,,,User_592,test592@mail.com
+user,594,,,,User_594,test594@mail.com
+user,596,,,,User_596,test596@mail.com
+user,598,,,,User_598,test598@mail.com
+user,600,,,,User_600,test600@mail.com
+user,602,,,,User_602,test602@mail.com
+user,604,,,,User_604,test604@mail.com
+user,606,,,,User_606,test606@mail.com
+user,608,,,,User_608,test608@mail.com
+user,610,,,,User_610,test610@mail.com
+user,612,,,,User_612,test612@mail.com
+user,614,,,,User_614,test614@mail.com
+user,616,,,,User_616,test616@mail.com
+user,618,,,,User_618,test618@mail.com
+user,620,,,,User_620,test620@mail.com
+user,622,,,,User_622,test622@mail.com
+user,624,,,,User_624,test624@mail.com
+user,626,,,,User_626,test626@mail.com
+user,628,,,,User_628,test628@mail.com
+user,630,,,,User_630,test630@mail.com
+user,632,,,,User_632,test632@mail.com
+user,634,,,,User_634,test634@mail.com
+user,636,,,,User_636,test636@mail.com
+user,638,,,,User_638,test638@mail.com
+user,640,,,,User_640,test640@mail.com
+user,642,,,,User_642,test642@mail.com
+user,644,,,,User_644,test644@mail.com
+user,646,,,,User_646,test646@mail.com
+user,648,,,,User_648,test648@mail.com
+user,650,,,,User_650,test650@mail.com
+user,652,,,,User_652,test652@mail.com
+user,654,,,,User_654,test654@mail.com
+user,656,,,,User_656,test656@mail.com
+user,658,,,,User_658,test658@mail.com
+user,660,,,,User_660,test660@mail.com
+user,662,,,,User_662,test662@mail.com
+user,664,,,,User_664,test664@mail.com
+user,666,,,,User_666,test666@mail.com
+user,668,,,,User_668,test668@mail.com
+user,670,,,,User_670,test670@mail.com
+user,672,,,,User_672,test672@mail.com
+user,674,,,,User_674,test674@mail.com
+user,676,,,,User_676,test676@mail.com
+user,678,,,,User_678,test678@mail.com
+user,680,,,,User_680,test680@mail.com
+user,682,,,,User_682,test682@mail.com
+user,684,,,,User_684,test684@mail.com
+user,686,,,,User_686,test686@mail.com
+user,688,,,,User_688,test688@mail.com
+user,690,,,,User_690,test690@mail.com
+user,692,,,,User_692,test692@mail.com
+user,694,,,,User_694,test694@mail.com
+user,696,,,,User_696,test696@mail.com
+user,698,,,,User_698,test698@mail.com
+user,700,,,,User_700,test700@mail.com
+user,702,,,,User_702,test702@mail.com
+user,704,,,,User_704,test704@mail.com
+user,706,,,,User_706,test706@mail.com
+user,708,,,,User_708,test708@mail.com
+user,710,,,,User_710,test710@mail.com
+user,712,,,,User_712,test712@mail.com
+user,714,,,,User_714,test714@mail.com
+user,716,,,,User_716,test716@mail.com
+user,718,,,,User_718,test718@mail.com
+user,720,,,,User_720,test720@mail.com
+user,722,,,,User_722,test722@mail.com
+user,724,,,,User_724,test724@mail.com
+user,726,,,,User_726,test726@mail.com
+user,728,,,,User_728,test728@mail.com
+user,730,,,,User_730,test730@mail.com
+user,732,,,,User_732,test732@mail.com
+user,734,,,,User_734,test734@mail.com
+user,736,,,,User_736,test736@mail.com
+user,738,,,,User_738,test738@mail.com
+user,740,,,,User_740,test740@mail.com
+user,742,,,,User_742,test742@mail.com
+user,744,,,,User_744,test744@mail.com
+user,746,,,,User_746,test746@mail.com
+user,748,,,,User_748,test748@mail.com
+user,750,,,,User_750,test750@mail.com
+user,752,,,,User_752,test752@mail.com
+user,754,,,,User_754,test754@mail.com
+user,756,,,,User_756,test756@mail.com
+user,758,,,,User_758,test758@mail.com
+user,760,,,,User_760,test760@mail.com
+user,762,,,,User_762,test762@mail.com
+user,764,,,,User_764,test764@mail.com
+user,766,,,,User_766,test766@mail.com
+user,768,,,,User_768,test768@mail.com
+user,770,,,,User_770,test770@mail.com
+user,772,,,,User_772,test772@mail.com
+user,774,,,,User_774,test774@mail.com
+user,776,,,,User_776,test776@mail.com
+user,778,,,,User_778,test778@mail.com
+user,780,,,,User_780,test780@mail.com
+user,782,,,,User_782,test782@mail.com
+user,784,,,,User_784,test784@mail.com
+user,786,,,,User_786,test786@mail.com
+user,788,,,,User_788,test788@mail.com
+user,790,,,,User_790,test790@mail.com
+user,792,,,,User_792,test792@mail.com
+user,794,,,,User_794,test794@mail.com
+user,796,,,,User_796,test796@mail.com
+user,798,,,,User_798,test798@mail.com
+user,800,,,,User_800,test800@mail.com
+user,802,,,,User_802,test802@mail.com
+user,804,,,,User_804,test804@mail.com
+user,806,,,,User_806,test806@mail.com
+user,808,,,,User_808,test808@mail.com
+user,810,,,,User_810,test810@mail.com
+user,812,,,,User_812,test812@mail.com
+user,814,,,,User_814,test814@mail.com
+user,816,,,,User_816,test816@mail.com
+user,818,,,,User_818,test818@mail.com
+user,820,,,,User_820,test820@mail.com
+user,822,,,,User_822,test822@mail.com
+user,824,,,,User_824,test824@mail.com
+user,826,,,,User_826,test826@mail.com
+user,828,,,,User_828,test828@mail.com
+user,830,,,,User_830,test830@mail.com
+user,832,,,,User_832,test832@mail.com
+user,834,,,,User_834,test834@mail.com
+user,836,,,,User_836,test836@mail.com
+user,838,,,,User_838,test838@mail.com
+user,840,,,,User_840,test840@mail.com
+user,842,,,,User_842,test842@mail.com
+user,844,,,,User_844,test844@mail.com
+user,846,,,,User_846,test846@mail.com
+user,848,,,,User_848,test848@mail.com
+user,850,,,,User_850,test850@mail.com
+user,852,,,,User_852,test852@mail.com
+user,854,,,,User_854,test854@mail.com
+user,856,,,,User_856,test856@mail.com
+user,858,,,,User_858,test858@mail.com
+user,860,,,,User_860,test860@mail.com
+user,862,,,,User_862,test862@mail.com
+user,864,,,,User_864,test864@mail.com
+user,866,,,,User_866,test866@mail.com
+user,868,,,,User_868,test868@mail.com
+user,870,,,,User_870,test870@mail.com
+user,872,,,,User_872,test872@mail.com
+user,874,,,,User_874,test874@mail.com
+user,876,,,,User_876,test876@mail.com
+user,878,,,,User_878,test878@mail.com
+user,880,,,,User_880,test880@mail.com
+user,882,,,,User_882,test882@mail.com
+user,884,,,,User_884,test884@mail.com
+user,886,,,,User_886,test886@mail.com
+user,888,,,,User_888,test888@mail.com
+user,890,,,,User_890,test890@mail.com
+user,892,,,,User_892,test892@mail.com
+user,894,,,,User_894,test894@mail.com
+user,896,,,,User_896,test896@mail.com
+user,898,,,,User_898,test898@mail.com
+user,900,,,,User_900,test900@mail.com
+user,902,,,,User_902,test902@mail.com
+user,904,,,,User_904,test904@mail.com
+user,906,,,,User_906,test906@mail.com
+user,908,,,,User_908,test908@mail.com
+user,910,,,,User_910,test910@mail.com
+user,912,,,,User_912,test912@mail.com
+user,914,,,,User_914,test914@mail.com
+user,916,,,,User_916,test916@mail.com
+user,918,,,,User_918,test918@mail.com
+user,920,,,,User_920,test920@mail.com
+user,922,,,,User_922,test922@mail.com
+user,924,,,,User_924,test924@mail.com
+user,926,,,,User_926,test926@mail.com
+user,928,,,,User_928,test928@mail.com
+user,930,,,,User_930,test930@mail.com
+user,932,,,,User_932,test932@mail.com
+user,934,,,,User_934,test934@mail.com
+user,936,,,,User_936,test936@mail.com
+user,938,,,,User_938,test938@mail.com
+user,940,,,,User_940,test940@mail.com
+user,942,,,,User_942,test942@mail.com
+user,944,,,,User_944,test944@mail.com
+user,946,,,,User_946,test946@mail.com
+user,948,,,,User_948,test948@mail.com
+user,950,,,,User_950,test950@mail.com
+user,952,,,,User_952,test952@mail.com
+user,954,,,,User_954,test954@mail.com
+user,956,,,,User_956,test956@mail.com
+user,958,,,,User_958,test958@mail.com
+user,960,,,,User_960,test960@mail.com
+user,962,,,,User_962,test962@mail.com
+user,964,,,,User_964,test964@mail.com
+user,966,,,,User_966,test966@mail.com
+user,968,,,,User_968,test968@mail.com
+user,970,,,,User_970,test970@mail.com
+user,972,,,,User_972,test972@mail.com
+user,974,,,,User_974,test974@mail.com
+user,976,,,,User_976,test976@mail.com
+user,978,,,,User_978,test978@mail.com
+user,980,,,,User_980,test980@mail.com
+user,982,,,,User_982,test982@mail.com
+user,984,,,,User_984,test984@mail.com
+user,986,,,,User_986,test986@mail.com
+user,988,,,,User_988,test988@mail.com
+user,990,,,,User_990,test990@mail.com
+user,992,,,,User_992,test992@mail.com
+user,994,,,,User_994,test994@mail.com
+user,996,,,,User_996,test996@mail.com
+user,998,,,,User_998,test998@mail.com
+listing,1,Apartment 1,70.74,0,,
+listing,3,Apartment 3,292.71,2,,
+listing,5,Apartment 5,362.75,4,,
+listing,7,Apartment 7,471.87,6,,
+listing,9,Apartment 9,190.54,8,,
+listing,11,Apartment 11,175.24,10,,
+listing,13,Apartment 13,67.36,12,,
+listing,15,Apartment 15,216.76,14,,
+listing,17,Apartment 17,259.72,16,,
+listing,19,Apartment 19,273.39,18,,
+listing,21,Apartment 21,294.96,20,,
+listing,23,Apartment 23,486.51,22,,
+listing,25,Apartment 25,417.13,24,,
+listing,27,Apartment 27,265.39,26,,
+listing,29,Apartment 29,418.37,28,,
+listing,31,Apartment 31,353.62,30,,
+listing,33,Apartment 33,112.11,32,,
+listing,35,Apartment 35,348.18,34,,
+listing,37,Apartment 37,252.08,36,,
+listing,39,Apartment 39,192.63,38,,
+listing,41,Apartment 41,451.42,40,,
+listing,43,Apartment 43,335.57,42,,
+listing,45,Apartment 45,57.3,44,,
+listing,47,Apartment 47,448.06,46,,
+listing,49,Apartment 49,345.41,48,,
+listing,51,Apartment 51,413.07,50,,
+listing,53,Apartment 53,257.18,52,,
+listing,55,Apartment 55,50.23,54,,
+listing,57,Apartment 57,455.9,56,,
+listing,59,Apartment 59,122.1,58,,
+listing,61,Apartment 61,289.09,60,,
+listing,63,Apartment 63,115.56,62,,
+listing,65,Apartment 65,169.1,64,,
+listing,67,Apartment 67,412.03,66,,
+listing,69,Apartment 69,112.9,68,,
+listing,71,Apartment 71,349.32,70,,
+listing,73,Apartment 73,71.76,72,,
+listing,75,Apartment 75,130.25,74,,
+listing,77,Apartment 77,151.84,76,,
+listing,79,Apartment 79,360.31,78,,
+listing,81,Apartment 81,309.6,80,,
+listing,83,Apartment 83,200.65,82,,
+listing,85,Apartment 85,438.63,84,,
+listing,87,Apartment 87,421.16,86,,
+listing,89,Apartment 89,226.42,88,,
+listing,91,Apartment 91,50.57,90,,
+listing,93,Apartment 93,229.94,92,,
+listing,95,Apartment 95,94.38,94,,
+listing,97,Apartment 97,409.33,96,,
+listing,99,Apartment 99,153.37,98,,
+listing,101,Apartment 101,277.73,100,,
+listing,103,Apartment 103,403.86,102,,
+listing,105,Apartment 105,323.26,104,,
+listing,107,Apartment 107,161.79,106,,
+listing,109,Apartment 109,168.47,108,,
+listing,111,Apartment 111,69.69,110,,
+listing,113,Apartment 113,59.96,112,,
+listing,115,Apartment 115,206.69,114,,
+listing,117,Apartment 117,201.6,116,,
+listing,119,Apartment 119,334.36,118,,
+listing,121,Apartment 121,245.0,120,,
+listing,123,Apartment 123,216.88,122,,
+listing,125,Apartment 125,333.11,124,,
+listing,127,Apartment 127,475.73,126,,
+listing,129,Apartment 129,72.11,128,,
+listing,131,Apartment 131,109.08,130,,
+listing,133,Apartment 133,275.69,132,,
+listing,135,Apartment 135,235.13,134,,
+listing,137,Apartment 137,136.46,136,,
+listing,139,Apartment 139,76.84,138,,
+listing,141,Apartment 141,189.96,140,,
+listing,143,Apartment 143,369.46,142,,
+listing,145,Apartment 145,214.8,144,,
+listing,147,Apartment 147,475.26,146,,
+listing,149,Apartment 149,173.14,148,,
+listing,151,Apartment 151,187.39,150,,
+listing,153,Apartment 153,259.87,152,,
+listing,155,Apartment 155,159.58,154,,
+listing,157,Apartment 157,346.24,156,,
+listing,159,Apartment 159,324.73,158,,
+listing,161,Apartment 161,143.46,160,,
+listing,163,Apartment 163,88.94,162,,
+listing,165,Apartment 165,171.66,164,,
+listing,167,Apartment 167,235.28,166,,
+listing,169,Apartment 169,109.47,168,,
+listing,171,Apartment 171,276.82,170,,
+listing,173,Apartment 173,378.07,172,,
+listing,175,Apartment 175,132.62,174,,
+listing,177,Apartment 177,312.77,176,,
+listing,179,Apartment 179,297.39,178,,
+listing,181,Apartment 181,132.79,180,,
+listing,183,Apartment 183,383.38,182,,
+listing,185,Apartment 185,496.27,184,,
+listing,187,Apartment 187,313.72,186,,
+listing,189,Apartment 189,463.01,188,,
+listing,191,Apartment 191,244.19,190,,
+listing,193,Apartment 193,430.37,192,,
+listing,195,Apartment 195,331.86,194,,
+listing,197,Apartment 197,187.7,196,,
+listing,199,Apartment 199,428.75,198,,
+listing,201,Apartment 201,270.6,200,,
+listing,203,Apartment 203,251.43,202,,
+listing,205,Apartment 205,83.02,204,,
+listing,207,Apartment 207,219.48,206,,
+listing,209,Apartment 209,190.07,208,,
+listing,211,Apartment 211,140.81,210,,
+listing,213,Apartment 213,472.97,212,,
+listing,215,Apartment 215,290.48,214,,
+listing,217,Apartment 217,426.54,216,,
+listing,219,Apartment 219,327.42,218,,
+listing,221,Apartment 221,314.45,220,,
+listing,223,Apartment 223,474.2,222,,
+listing,225,Apartment 225,74.61,224,,
+listing,227,Apartment 227,449.1,226,,
+listing,229,Apartment 229,335.68,228,,
+listing,231,Apartment 231,431.27,230,,
+listing,233,Apartment 233,190.3,232,,
+listing,235,Apartment 235,302.36,234,,
+listing,237,Apartment 237,485.28,236,,
+listing,239,Apartment 239,325.94,238,,
+listing,241,Apartment 241,380.52,240,,
+listing,243,Apartment 243,434.46,242,,
+listing,245,Apartment 245,415.7,244,,
+listing,247,Apartment 247,254.59,246,,
+listing,249,Apartment 249,371.73,248,,
+listing,251,Apartment 251,384.73,250,,
+listing,253,Apartment 253,391.45,252,,
+listing,255,Apartment 255,326.53,254,,
+listing,257,Apartment 257,244.0,256,,
+listing,259,Apartment 259,430.72,258,,
+listing,261,Apartment 261,236.07,260,,
+listing,263,Apartment 263,262.3,262,,
+listing,265,Apartment 265,326.33,264,,
+listing,267,Apartment 267,364.16,266,,
+listing,269,Apartment 269,163.44,268,,
+listing,271,Apartment 271,58.05,270,,
+listing,273,Apartment 273,329.11,272,,
+listing,275,Apartment 275,407.37,274,,
+listing,277,Apartment 277,429.4,276,,
+listing,279,Apartment 279,412.86,278,,
+listing,281,Apartment 281,324.62,280,,
+listing,283,Apartment 283,449.91,282,,
+listing,285,Apartment 285,277.32,284,,
+listing,287,Apartment 287,331.83,286,,
+listing,289,Apartment 289,61.29,288,,
+listing,291,Apartment 291,252.07,290,,
+listing,293,Apartment 293,116.29,292,,
+listing,295,Apartment 295,68.19,294,,
+listing,297,Apartment 297,382.39,296,,
+listing,299,Apartment 299,480.23,298,,
+listing,301,Apartment 301,346.81,300,,
+listing,303,Apartment 303,328.88,302,,
+listing,305,Apartment 305,165.97,304,,
+listing,307,Apartment 307,483.73,306,,
+listing,309,Apartment 309,422.56,308,,
+listing,311,Apartment 311,396.97,310,,
+listing,313,Apartment 313,181.3,312,,
+listing,315,Apartment 315,61.81,314,,
+listing,317,Apartment 317,101.12,316,,
+listing,319,Apartment 319,354.81,318,,
+listing,321,Apartment 321,79.25,320,,
+listing,323,Apartment 323,383.06,322,,
+listing,325,Apartment 325,370.01,324,,
+listing,327,Apartment 327,318.22,326,,
+listing,329,Apartment 329,288.24,328,,
+listing,331,Apartment 331,72.97,330,,
+listing,333,Apartment 333,85.94,332,,
+listing,335,Apartment 335,109.05,334,,
+listing,337,Apartment 337,339.41,336,,
+listing,339,Apartment 339,171.48,338,,
+listing,341,Apartment 341,424.04,340,,
+listing,343,Apartment 343,153.26,342,,
+listing,345,Apartment 345,382.47,344,,
+listing,347,Apartment 347,52.08,346,,
+listing,349,Apartment 349,259.44,348,,
+listing,351,Apartment 351,233.14,350,,
+listing,353,Apartment 353,274.11,352,,
+listing,355,Apartment 355,399.48,354,,
+listing,357,Apartment 357,105.45,356,,
+listing,359,Apartment 359,396.67,358,,
+listing,361,Apartment 361,112.76,360,,
+listing,363,Apartment 363,115.81,362,,
+listing,365,Apartment 365,100.97,364,,
+listing,367,Apartment 367,323.28,366,,
+listing,369,Apartment 369,456.16,368,,
+listing,371,Apartment 371,125.49,370,,
+listing,373,Apartment 373,110.35,372,,
+listing,375,Apartment 375,85.19,374,,
+listing,377,Apartment 377,374.26,376,,
+listing,379,Apartment 379,219.49,378,,
+listing,381,Apartment 381,442.58,380,,
+listing,383,Apartment 383,212.44,382,,
+listing,385,Apartment 385,51.17,384,,
+listing,387,Apartment 387,434.72,386,,
+listing,389,Apartment 389,423.86,388,,
+listing,391,Apartment 391,439.58,390,,
+listing,393,Apartment 393,290.35,392,,
+listing,395,Apartment 395,412.35,394,,
+listing,397,Apartment 397,321.05,396,,
+listing,399,Apartment 399,307.33,398,,
+listing,401,Apartment 401,145.68,400,,
+listing,403,Apartment 403,81.13,402,,
+listing,405,Apartment 405,322.23,404,,
+listing,407,Apartment 407,340.56,406,,
+listing,409,Apartment 409,349.2,408,,
+listing,411,Apartment 411,97.05,410,,
+listing,413,Apartment 413,106.24,412,,
+listing,415,Apartment 415,333.31,414,,
+listing,417,Apartment 417,97.98,416,,
+listing,419,Apartment 419,303.71,418,,
+listing,421,Apartment 421,105.29,420,,
+listing,423,Apartment 423,454.79,422,,
+listing,425,Apartment 425,416.88,424,,
+listing,427,Apartment 427,424.32,426,,
+listing,429,Apartment 429,166.53,428,,
+listing,431,Apartment 431,136.72,430,,
+listing,433,Apartment 433,292.68,432,,
+listing,435,Apartment 435,354.82,434,,
+listing,437,Apartment 437,499.29,436,,
+listing,439,Apartment 439,234.17,438,,
+listing,441,Apartment 441,197.37,440,,
+listing,443,Apartment 443,105.0,442,,
+listing,445,Apartment 445,462.92,444,,
+listing,447,Apartment 447,355.39,446,,
+listing,449,Apartment 449,389.4,448,,
+listing,451,Apartment 451,338.16,450,,
+listing,453,Apartment 453,76.22,452,,
+listing,455,Apartment 455,386.96,454,,
+listing,457,Apartment 457,404.8,456,,
+listing,459,Apartment 459,381.31,458,,
+listing,461,Apartment 461,419.71,460,,
+listing,463,Apartment 463,165.55,462,,
+listing,465,Apartment 465,60.63,464,,
+listing,467,Apartment 467,435.22,466,,
+listing,469,Apartment 469,360.53,468,,
+listing,471,Apartment 471,233.81,470,,
+listing,473,Apartment 473,451.03,472,,
+listing,475,Apartment 475,227.45,474,,
+listing,477,Apartment 477,164.3,476,,
+listing,479,Apartment 479,449.92,478,,
+listing,481,Apartment 481,279.11,480,,
+listing,483,Apartment 483,206.19,482,,
+listing,485,Apartment 485,380.26,484,,
+listing,487,Apartment 487,219.06,486,,
+listing,489,Apartment 489,364.71,488,,
+listing,491,Apartment 491,173.04,490,,
+listing,493,Apartment 493,488.83,492,,
+listing,495,Apartment 495,360.92,494,,
+listing,497,Apartment 497,488.91,496,,
+listing,499,Apartment 499,373.01,498,,
+listing,501,Apartment 501,161.52,500,,
+listing,503,Apartment 503,151.87,502,,
+listing,505,Apartment 505,470.56,504,,
+listing,507,Apartment 507,497.88,506,,
+listing,509,Apartment 509,286.46,508,,
+listing,511,Apartment 511,202.82,510,,
+listing,513,Apartment 513,297.31,512,,
+listing,515,Apartment 515,182.37,514,,
+listing,517,Apartment 517,95.23,516,,
+listing,519,Apartment 519,402.61,518,,
+listing,521,Apartment 521,168.14,520,,
+listing,523,Apartment 523,309.35,522,,
+listing,525,Apartment 525,142.61,524,,
+listing,527,Apartment 527,147.61,526,,
+listing,529,Apartment 529,136.06,528,,
+listing,531,Apartment 531,374.04,530,,
+listing,533,Apartment 533,304.38,532,,
+listing,535,Apartment 535,324.97,534,,
+listing,537,Apartment 537,436.89,536,,
+listing,539,Apartment 539,222.35,538,,
+listing,541,Apartment 541,219.9,540,,
+listing,543,Apartment 543,169.47,542,,
+listing,545,Apartment 545,450.92,544,,
+listing,547,Apartment 547,82.45,546,,
+listing,549,Apartment 549,245.15,548,,
+listing,551,Apartment 551,473.88,550,,
+listing,553,Apartment 553,118.97,552,,
+listing,555,Apartment 555,210.69,554,,
+listing,557,Apartment 557,128.03,556,,
+listing,559,Apartment 559,303.92,558,,
+listing,561,Apartment 561,122.54,560,,
+listing,563,Apartment 563,178.53,562,,
+listing,565,Apartment 565,179.25,564,,
+listing,567,Apartment 567,405.78,566,,
+listing,569,Apartment 569,410.74,568,,
+listing,571,Apartment 571,299.14,570,,
+listing,573,Apartment 573,241.59,572,,
+listing,575,Apartment 575,481.74,574,,
+listing,577,Apartment 577,481.05,576,,
+listing,579,Apartment 579,414.34,578,,
+listing,581,Apartment 581,70.76,580,,
+listing,583,Apartment 583,176.7,582,,
+listing,585,Apartment 585,394.7,584,,
+listing,587,Apartment 587,154.87,586,,
+listing,589,Apartment 589,140.11,588,,
+listing,591,Apartment 591,182.76,590,,
+listing,593,Apartment 593,158.5,592,,
+listing,595,Apartment 595,259.74,594,,
+listing,597,Apartment 597,455.69,596,,
+listing,599,Apartment 599,343.26,598,,
+listing,601,Apartment 601,107.08,600,,
+listing,603,Apartment 603,465.29,602,,
+listing,605,Apartment 605,139.77,604,,
+listing,607,Apartment 607,268.37,606,,
+listing,609,Apartment 609,188.2,608,,
+listing,611,Apartment 611,92.51,610,,
+listing,613,Apartment 613,273.39,612,,
+listing,615,Apartment 615,113.63,614,,
+listing,617,Apartment 617,218.64,616,,
+listing,619,Apartment 619,63.09,618,,
+listing,621,Apartment 621,222.42,620,,
+listing,623,Apartment 623,179.09,622,,
+listing,625,Apartment 625,489.46,624,,
+listing,627,Apartment 627,394.53,626,,
+listing,629,Apartment 629,489.02,628,,
+listing,631,Apartment 631,461.64,630,,
+listing,633,Apartment 633,432.77,632,,
+listing,635,Apartment 635,184.41,634,,
+listing,637,Apartment 637,287.67,636,,
+listing,639,Apartment 639,294.61,638,,
+listing,641,Apartment 641,478.1,640,,
+listing,643,Apartment 643,318.85,642,,
+listing,645,Apartment 645,485.1,644,,
+listing,647,Apartment 647,356.94,646,,
+listing,649,Apartment 649,113.01,648,,
+listing,651,Apartment 651,166.66,650,,
+listing,653,Apartment 653,398.25,652,,
+listing,655,Apartment 655,191.75,654,,
+listing,657,Apartment 657,108.32,656,,
+listing,659,Apartment 659,127.31,658,,
+listing,661,Apartment 661,259.85,660,,
+listing,663,Apartment 663,281.73,662,,
+listing,665,Apartment 665,109.3,664,,
+listing,667,Apartment 667,410.35,666,,
+listing,669,Apartment 669,182.57,668,,
+listing,671,Apartment 671,342.65,670,,
+listing,673,Apartment 673,272.03,672,,
+listing,675,Apartment 675,123.57,674,,
+listing,677,Apartment 677,385.62,676,,
+listing,679,Apartment 679,487.49,678,,
+listing,681,Apartment 681,274.84,680,,
+listing,683,Apartment 683,351.97,682,,
+listing,685,Apartment 685,258.52,684,,
+listing,687,Apartment 687,64.99,686,,
+listing,689,Apartment 689,157.47,688,,
+listing,691,Apartment 691,257.66,690,,
+listing,693,Apartment 693,219.39,692,,
+listing,695,Apartment 695,477.82,694,,
+listing,697,Apartment 697,498.8,696,,
+listing,699,Apartment 699,237.22,698,,
+listing,701,Apartment 701,206.02,700,,
+listing,703,Apartment 703,160.81,702,,
+listing,705,Apartment 705,198.84,704,,
+listing,707,Apartment 707,447.85,706,,
+listing,709,Apartment 709,238.21,708,,
+listing,711,Apartment 711,61.16,710,,
+listing,713,Apartment 713,175.15,712,,
+listing,715,Apartment 715,89.68,714,,
+listing,717,Apartment 717,403.04,716,,
+listing,719,Apartment 719,276.81,718,,
+listing,721,Apartment 721,411.05,720,,
+listing,723,Apartment 723,420.7,722,,
+listing,725,Apartment 725,383.09,724,,
+listing,727,Apartment 727,354.25,726,,
+listing,729,Apartment 729,264.84,728,,
+listing,731,Apartment 731,170.16,730,,
+listing,733,Apartment 733,183.25,732,,
+listing,735,Apartment 735,359.5,734,,
+listing,737,Apartment 737,345.04,736,,
+listing,739,Apartment 739,376.6,738,,
+listing,741,Apartment 741,430.26,740,,
+listing,743,Apartment 743,378.39,742,,
+listing,745,Apartment 745,303.75,744,,
+listing,747,Apartment 747,145.06,746,,
+listing,749,Apartment 749,262.79,748,,
+listing,751,Apartment 751,136.08,750,,
+listing,753,Apartment 753,418.26,752,,
+listing,755,Apartment 755,490.4,754,,
+listing,757,Apartment 757,123.92,756,,
+listing,759,Apartment 759,371.19,758,,
+listing,761,Apartment 761,364.86,760,,
+listing,763,Apartment 763,326.54,762,,
+listing,765,Apartment 765,117.67,764,,
+listing,767,Apartment 767,174.01,766,,
+listing,769,Apartment 769,466.43,768,,
+listing,771,Apartment 771,414.86,770,,
+listing,773,Apartment 773,56.8,772,,
+listing,775,Apartment 775,216.16,774,,
+listing,777,Apartment 777,469.98,776,,
+listing,779,Apartment 779,496.09,778,,
+listing,781,Apartment 781,456.62,780,,
+listing,783,Apartment 783,179.77,782,,
+listing,785,Apartment 785,306.36,784,,
+listing,787,Apartment 787,124.36,786,,
+listing,789,Apartment 789,97.54,788,,
+listing,791,Apartment 791,454.94,790,,
+listing,793,Apartment 793,126.61,792,,
+listing,795,Apartment 795,314.42,794,,
+listing,797,Apartment 797,180.81,796,,
+listing,799,Apartment 799,212.9,798,,
+listing,801,Apartment 801,114.37,800,,
+listing,803,Apartment 803,164.05,802,,
+listing,805,Apartment 805,90.0,804,,
+listing,807,Apartment 807,97.39,806,,
+listing,809,Apartment 809,117.82,808,,
+listing,811,Apartment 811,144.03,810,,
+listing,813,Apartment 813,279.25,812,,
+listing,815,Apartment 815,212.44,814,,
+listing,817,Apartment 817,250.42,816,,
+listing,819,Apartment 819,319.42,818,,
+listing,821,Apartment 821,143.51,820,,
+listing,823,Apartment 823,214.9,822,,
+listing,825,Apartment 825,192.18,824,,
+listing,827,Apartment 827,336.4,826,,
+listing,829,Apartment 829,455.33,828,,
+listing,831,Apartment 831,252.37,830,,
+listing,833,Apartment 833,374.85,832,,
+listing,835,Apartment 835,364.66,834,,
+listing,837,Apartment 837,258.38,836,,
+listing,839,Apartment 839,107.47,838,,
+listing,841,Apartment 841,409.37,840,,
+listing,843,Apartment 843,452.33,842,,
+listing,845,Apartment 845,173.07,844,,
+listing,847,Apartment 847,130.16,846,,
+listing,849,Apartment 849,213.68,848,,
+listing,851,Apartment 851,300.95,850,,
+listing,853,Apartment 853,416.09,852,,
+listing,855,Apartment 855,311.44,854,,
+listing,857,Apartment 857,206.26,856,,
+listing,859,Apartment 859,149.24,858,,
+listing,861,Apartment 861,343.31,860,,
+listing,863,Apartment 863,172.18,862,,
+listing,865,Apartment 865,445.32,864,,
+listing,867,Apartment 867,362.27,866,,
+listing,869,Apartment 869,252.65,868,,
+listing,871,Apartment 871,217.7,870,,
+listing,873,Apartment 873,460.74,872,,
+listing,875,Apartment 875,355.27,874,,
+listing,877,Apartment 877,55.18,876,,
+listing,879,Apartment 879,222.47,878,,
+listing,881,Apartment 881,103.06,880,,
+listing,883,Apartment 883,455.37,882,,
+listing,885,Apartment 885,212.61,884,,
+listing,887,Apartment 887,426.63,886,,
+listing,889,Apartment 889,434.51,888,,
+listing,891,Apartment 891,131.74,890,,
+listing,893,Apartment 893,60.74,892,,
+listing,895,Apartment 895,281.69,894,,
+listing,897,Apartment 897,280.93,896,,
+listing,899,Apartment 899,404.83,898,,
+listing,901,Apartment 901,278.42,900,,
+listing,903,Apartment 903,478.2,902,,
+listing,905,Apartment 905,205.84,904,,
+listing,907,Apartment 907,324.45,906,,
+listing,909,Apartment 909,187.43,908,,
+listing,911,Apartment 911,415.36,910,,
+listing,913,Apartment 913,449.9,912,,
+listing,915,Apartment 915,476.09,914,,
+listing,917,Apartment 917,320.52,916,,
+listing,919,Apartment 919,320.47,918,,
+listing,921,Apartment 921,159.79,920,,
+listing,923,Apartment 923,382.46,922,,
+listing,925,Apartment 925,344.92,924,,
+listing,927,Apartment 927,383.43,926,,
+listing,929,Apartment 929,334.0,928,,
+listing,931,Apartment 931,348.74,930,,
+listing,933,Apartment 933,103.73,932,,
+listing,935,Apartment 935,433.01,934,,
+listing,937,Apartment 937,302.08,936,,
+listing,939,Apartment 939,102.84,938,,
+listing,941,Apartment 941,143.81,940,,
+listing,943,Apartment 943,359.19,942,,
+listing,945,Apartment 945,463.86,944,,
+listing,947,Apartment 947,412.42,946,,
+listing,949,Apartment 949,474.54,948,,
+listing,951,Apartment 951,331.64,950,,
+listing,953,Apartment 953,181.17,952,,
+listing,955,Apartment 955,253.97,954,,
+listing,957,Apartment 957,201.71,956,,
+listing,959,Apartment 959,182.08,958,,
+listing,961,Apartment 961,96.35,960,,
+listing,963,Apartment 963,348.24,962,,
+listing,965,Apartment 965,480.26,964,,
+listing,967,Apartment 967,325.41,966,,
+listing,969,Apartment 969,151.22,968,,
+listing,971,Apartment 971,418.24,970,,
+listing,973,Apartment 973,422.88,972,,
+listing,975,Apartment 975,137.41,974,,
+listing,977,Apartment 977,198.84,976,,
+listing,979,Apartment 979,374.24,978,,
+listing,981,Apartment 981,80.13,980,,
+listing,983,Apartment 983,234.52,982,,
+listing,985,Apartment 985,123.59,984,,
+listing,987,Apartment 987,259.42,986,,
+listing,989,Apartment 989,206.29,988,,
+listing,991,Apartment 991,455.59,990,,
+listing,993,Apartment 993,298.27,992,,
+listing,995,Apartment 995,344.56,994,,
+listing,997,Apartment 997,409.32,996,,
+listing,999,Apartment 999,472.25,998,,
