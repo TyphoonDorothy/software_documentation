@@ -1,7 +1,7 @@
 # Assuming you have imported your SQLAlchemy Repo from the DAL repository
 from data_access.repositories import SqlAlchemyRepository
 from business.services import ProcessingService
-from presentation.interfaces import ConsolePresentation
+from data_access.interfaces import ConsolePresentation
 
 def main():
     conn_str = "mssql+pyodbc://@DESKTOP-33IR0JT/rental_service?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
