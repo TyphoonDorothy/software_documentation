@@ -1,0 +1,5 @@
+{
+    "output_strategy": "kafka",
+    "kafka_topic": "air_quality_metrics",
+    "redis_key": "sensor_dataset"
+}
