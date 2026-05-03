@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, session
 from data_access.repositories import SqlAlchemyRepository
 from business.services import ListingService
 
